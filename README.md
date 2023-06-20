@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub profile! I'm passionate about coding and love to contribute to open-source projects. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akaisky07)
 
-Welcome to my GitHub profile! I'm passionate about coding and love to contribute to open-source projects. 
+
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
