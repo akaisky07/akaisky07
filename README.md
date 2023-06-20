@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Profile Views
-![Profile Views](https://count.getloli.com/get/@akaisky07)
-
+![Profile Views](https://komarev.com/ghpvc/?username=akaisky07)
 
 Welcome to my GitHub profile! I'm passionate about coding and love to contribute to open-source projects. 
 
