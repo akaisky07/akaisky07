@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm passionate about coding and love to contribute
 ![Profile Views](https://komarev.com/ghpvc/?username=akaisky07)
 
 
-
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
