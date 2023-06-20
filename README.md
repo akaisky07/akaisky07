@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to contribute
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaisky07&show_icons=true&theme=dracula)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaisky07&layout=compact&theme=dracula)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaisky07&layout=compact&theme=dracula)](https://github.com/akaisky07)
 
 ## Projects
 - [Heart Disease Predictor](https://github.com/akaisky07/heart-disease) - Flask App with trained ML Model to predict heart disease .
