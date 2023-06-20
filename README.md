@@ -28,13 +28,13 @@ Welcome to my GitHub profile! I'm passionate about coding and love to contribute
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaisky07&show_icons=true&theme=dracula)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaisky07&layout=compact&theme=dracula)](https://github.com/yourusername)
 
 ## Projects
-- [Project 1](https://github.com/yourusername/project1) - Short description of Project 1.
+- [Project 1](https://github.com/akaisky07/heart-disease) - Short description of Project 1.
 - [Project 2](https://github.com/yourusername/project2) - Short description of Project 2.
 - [Project 3](https://github.com/yourusername/project3) - Short description of Project 3.
 
